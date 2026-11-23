@@ -37,12 +37,12 @@
 ✅ HTML, CSS & JavaScript fundamentals
 ✅ SQL & Database Management
 ✅ REST API Development
-🔄 Data Structures & Algorithms — 50% completed
+🔄 Data Structures & Algorithms — I know the concepts, and I try to execute the basic programs.And I am still learning
 🔄 React.js
 
 ## 📊 GitHub Statistics
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=https://github.com/neelimamule&layout=compact&theme=tokyonight)
 
 ## 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/neelima-reddy-282144276)
@@ -51,7 +51,7 @@
 
 ## 💡 My Goal
 > "[My goal is to become a skilled software developer by building realtime applications.  
-I’m committed to learning new technologies and improving my problem-solving skills every day.And grow up with your company]"
+I’m committed to learning new technologies and improving my problem-solving skills every day.And I want to grow up with your company]"
 
 ⭐ Thanks for visiting my profile! Feel free to explore my repositories.
 
